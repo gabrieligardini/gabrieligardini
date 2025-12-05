@@ -50,8 +50,14 @@ desenvolvida pela organização [AUma Gêmea](https://github.com/AumaGemea).
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+<div align="center">
 
-![Gabrieli's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieligardini&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieligardini&layout=compact&theme=tokyonight&hide_border=true)
+### 📊 Minhas Estatísticas no GitHub
 
+<!-- Stats principais -->
+<img height="170em" src="https://github-readme-stats-zeta-five-40.vercel.app/api?username=gabrieligardini&show_icons=true&title_color=ff4da6&icon_color=ff4da6&text_color=f9f9f9&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true" />
+
+<!-- Top linguagens -->
+<img height="170em" src="https://github-readme-stats-zeta-five-40.vercel.app/api/top-langs/?username=gabrieligardini&layout=compact&title_color=ff4da6&text_color=f9f9f9&bg_color=000000&hide_border=true" />
+
+<br/>
