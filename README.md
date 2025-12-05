@@ -39,11 +39,11 @@ Gosto de criar interfaces bonitas e funcionais e de aprender coisas novas todos 
 
 ## 💼 Projetos e Colaboração
 
-### AUma Gêmea
+### AUmaGêmea
 [![AUma Gêmea](https://img.shields.io/badge/Projeto-AUma%20G%C3%AAmea-orange?style=for-the-badge&logo=github)](https://github.com/AumaGemea)
 
 Plataforma pet com foco em doação e adoção de animais de forma segura, com ações de impacto social,  
-desenvolvida pela organização [AUma Gêmea](https://github.com/AumaGemea).  
+desenvolvida pela organização [AUmaGêmea](https://github.com/AumaGemea).  
 
 **Meu papel:** Desenvolvimento do **Front-End**, criando interfaces intuitivas e responsivas para os usuários.  
 **Status:** Em desenvolvimento 🚀
