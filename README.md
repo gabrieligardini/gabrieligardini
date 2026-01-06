@@ -2,7 +2,7 @@
 
 # Olá, eu sou Gabrieli Gardini Fernandes 👋
 
-Sou **estudante de Desenvolvimento Web - Python**, apaixonada por tecnologia e com pretensão de atuar no **Front-End**.  
+Sou ** Desenvolvedora Web Full-Stack **, apaixonada por tecnologia e com pretensão de atuar no **Front-End**.  
 Gosto de criar interfaces bonitas e funcionais e de aprender coisas novas todos os dias! 💻✨
 
 **Entre em contato comigo:**  
