@@ -2,8 +2,8 @@
 
 # Olá, eu sou Gabrieli Gardini Fernandes 👋
 
-Sou ** Desenvolvedora Web Full-Stack **, apaixonada por tecnologia e com pretensão de atuar no **Front-End**.  
-Gosto de criar interfaces bonitas e funcionais e de aprender coisas novas todos os dias! 💻✨
+Sou **Desenvolvedora Web Full-Stack**, apaixonada por tecnologia e com um carinho especial pelo **Front-End**.  
+Amo criar interfaces bonitas, funcionais e aprender algo novo todos os dias. 💻✨
 
 **Entre em contato comigo:**  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieli.gardini9463@email.com)
