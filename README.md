@@ -46,7 +46,7 @@ Plataforma pet com foco em doação e adoção de animais de forma segura, com a
 desenvolvida pela organização [AUmaGêmea](https://github.com/AumaGemea).  
 
 **Meu papel:** Desenvolvimento do **Front-End**, criando interfaces intuitivas e responsivas para os usuários.  
-**Status:** Em desenvolvimento 🚀
+**Status:** Concluído 🚀
 
 ---
 
